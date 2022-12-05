@@ -1,5 +1,5 @@
 Welcome 👋
-# Beginner C programmer, 21 school student, Bachelor of EEE ☂
+# Intermediate C programmer, 21 school student, Bachelor of EEE ☂
 
 ## My Codewars solutions! (Codewars name - Malenno)
 
