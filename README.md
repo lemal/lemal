@@ -1,5 +1,5 @@
 Kukuku (;
-# Programmer, Bachelor of EEE, English tutor ☂
+# Bachelor of EEE, English tutor, Programmer ☂
 
 @c_len_tapulask me!
 
