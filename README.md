@@ -1,8 +1,6 @@
 Kukuku (;
 # Programmer, Bachelor of EEE, English tutor ☂
 
-## My Codewars solutions! (Codewars name - Malenno)
-
 @c_len_tapulask me!
 
 <!--
